@@ -1,4 +1,4 @@
-# Elegoo Centauri Carbon monitor
+# Elegoo Centauri Carbon monitoring script
 
 This is a simple Python script to monitor the status of one or more 3D printers on your local WiFi network. Printers need to support SDCP, which includes the Elegoo Centauri Carbon.
 
