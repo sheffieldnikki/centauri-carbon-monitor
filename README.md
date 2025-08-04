@@ -8,3 +8,13 @@ The script discovers any printers on the network, and then prints changes in sta
 
 Alert sounds are made if a print job is: paused (eg, so you can add metal parts), stopped due to an error, or completed. It also makes a sound once the print bed has cooled down to 40C.
 You could edit the script to change the alert rules, play different sounds, trigger desktop notifications, etc.
+
+It should work on both Windows and Linux.
+
+Requirements are python3 and the _websockets_ package, which may need to be installed. eg,
+
+`sudo pip install websockets`
+
+or:
+
+`sudo apt install python3-websockets`
