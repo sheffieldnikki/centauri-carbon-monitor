@@ -11,7 +11,9 @@ You could edit the script to change the alert rules, play different sounds, trig
 
 It should work on both Windows and Linux.
 
-Requirements are python3 and the _websockets_ package, which may need to be installed. eg,
+If you are new to running Python scripts, there are lots of great tutorials out there to get you started, such as https://realpython.com/run-python-scripts/
+
+Requirements are python3 and the _websockets_ package, which may need to be installed. eg, for Linux users
 
 `sudo pip install websockets`
 
